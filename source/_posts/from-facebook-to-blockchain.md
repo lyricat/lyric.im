@@ -13,7 +13,7 @@ tags: ["Facebook", "区块链"]
 先说结论：
 
 1. 这篇文章跟通篇没有提到区块链和数字货币。请小心夹带私货的写作，比如下面这篇：
-   ![](/from-facebook-to-blockchain/screenshot.jpg)
+   ![](/from-facebook-to-blockchain/screenshot.jpg?x=1)
 2. Facebook 是全球最适合做这件事的公司。腾讯做不了。
 3. 扎克伯格没有说“放弃中国市场”，因为他根本没进来过；他表达的意思我下文分析。
 4. 区块链在这件事上能提供什么价值。
