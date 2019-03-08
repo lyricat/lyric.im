@@ -1,6 +1,7 @@
 ---
 title: 从 Facebook 的华丽转身到区块链的真正价值
 date: 2019-03-08
+tags: ["Facebook", "区块链"]
 ---
 
 昨天，35 岁的80后创业明星，亿万富翁，Facebook 的创始人马克·扎克伯格在[他的个人主页](https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)[1]上发表了一篇 3300 字的长文，阐述了他对 Facebook 的愿景。
