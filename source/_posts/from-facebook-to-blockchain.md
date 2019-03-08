@@ -1,5 +1,5 @@
 ---
-title: 从 Facebook 的华丽转身到区块链的真正价值
+title: 从 Facebook 的转身到区块链的真正价值
 date: 2019-03-08
 tags: ["Facebook", "区块链"]
 ---
