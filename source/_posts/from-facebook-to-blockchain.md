@@ -57,14 +57,17 @@ tags: ["Facebook", "区块链"]
 
 拿 IM 消息这件事来说，我们的通讯有不加密，传输加密，端对端加密三种形式（如下图）：
 
+不加密:
+
 ![end-to-end-encryption-01](/from-facebook-to-blockchain/non-encrypted.jpg)
-不加密
+
+传输加密:
 
 ![end-to-end-encryption-02](/from-facebook-to-blockchain/trans-encrypted.jpg)
-传输加密
+
+端对端加密:
 
 ![end-to-end-encryption-03](/from-facebook-to-blockchain/p2p-encrypted.jpg)
-端对端加密
 
 在端对端加密中，为你中转消息的服务器也无法得知你和你的朋友的聊天内容。
 
