@@ -26,7 +26,6 @@ date: 2019-03-08
 1. **Private interactions**：和谁聊，聊了啥，都是应该是私密的。
 2. **Encryption**：1 中提到的“私密”内容除了当事人，其它人都看不到。包括 Facebook 自己也看不到。这一点由“端对端”加密作为技术保障。
 3. **Reducing Permanence**：发出去的内容既能天长地久，也能“三天可见”，你们说了算。
-   ![]()
 4. **Safety**：安全。
 5. **Interoperability**：Facebook 旗下的所有服务都互通。
 6. **Secure data storage**：没人权没自由的地方我们不建数据中心，因为我们不能把用户数据给“他们”。
@@ -58,10 +57,13 @@ date: 2019-03-08
 拿 IM 消息这件事来说，我们的通讯有不加密，传输加密，端对端加密三种形式（如下图）：
 
 ![end-to-end-encryption-01](/from-facebook-to-blockchain/non-encrypted.jpg)
+不加密
 
 ![end-to-end-encryption-02](/from-facebook-to-blockchain/trans-encrypted.jpg)
+传输加密
 
 ![end-to-end-encryption-03](/from-facebook-to-blockchain/p2p-encrypted.jpg)
+端对端加密
 
 在端对端加密中，为你中转消息的服务器也无法得知你和你的朋友的聊天内容。
 
