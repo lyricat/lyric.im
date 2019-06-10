@@ -4,9 +4,6 @@ date: 2019-06-10 13:33:52
 tags: ["Apple", "产品设计"]
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/B21yuDVicPmHcadCNiat8mmuxaFZXace4WCJllQ9kAspvDnqPxBUtkKsZBW5WmiaRLrspNF1Rdjr1rumc8ln3BBQA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
 之前一段时间，Elon Musk 推崇的 “First Principles” 一下子流行起来，[他说](https://www.goodreads.com/quotes/7258771-i-think-it-s-important-to-reason-from-first-principles-rather "Elon Musk 的 First Principles")：
 
 > I think it’s important to reason from first principles rather than by analogy. The normal way we conduct our lives is we reason by analogy. [With analogy] we are doing this because it’s like something else that was done, or it is like what other people are doing. [With first principles] you boil things down to the most fundamental truths…and then reason up from there.
