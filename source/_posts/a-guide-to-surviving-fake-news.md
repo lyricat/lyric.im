@@ -18,7 +18,7 @@ tags: ["Fact checking"， "Fake news"]
 
 造成这种状况的有三种人：
 
-第一种人很坏，他们很懂 propaganda[^1]，他们以不公正、不准确的信息以及对信息的误读来影响大众，改变大众对某一事件或者观点的立场或态度，使得他们在其中获益。
+第一种人很坏，他们很懂  [propaganda](https://en.wikipedia.org/wiki/Propaganda)，他们以不公正、不准确的信息以及对信息的误读来影响大众，改变大众对某一事件或者观点的立场或态度，使得他们在其中获益。
 
 第二种人是韭菜，他们是真心喜欢参与点赞和转发的狂欢。
 
@@ -26,7 +26,7 @@ tags: ["Fact checking"， "Fake news"]
 
 ---
 
-怎么对付 fake news 呢，我的朋友 @chenshaoju 教我 fact checking[^1]。
+怎么对付 fake news 呢，我的朋友 @chenshaoju 教我 [fact checking](https://en.wikipedia.org/wiki/Fact-checking#Informal_fact-checking "Fact checking")。
 
 fact checking 本质上是建立一个信息处理机制。不依赖于任何消息源，而是依赖一套符合逻辑的评价手段，并以此手段对待所有的消息源，排除其中的偏见、误导、欺诈、错误，以此还原出更加客观的信息。
 
@@ -46,7 +46,7 @@ fact checking 有什么用呢？只有客观有效的信息才能帮你建立有
 
 ## 2 尽可能从不同的视角了解同一个消息
 
-中国有一句古话 “兼听则明，偏信则暗[^3]”。这句话告诉我们从多个不同的角度才能更好的还原事物的样子，才能做出正确的事情；只听信单方面的话，就分不清是非。
+中国有一句古话 “[兼听则明，偏信则暗](https://www.zdic.net/hans/兼听则明，偏信则暗 "上问魏征曰：『人主何为而明，何为而暗？』对曰：『兼听则明，偏信则暗。』")”。这句话告诉我们从多个不同的角度才能更好的还原事物的样子，才能做出正确的事情；只听信单方面的话，就分不清是非。
 
 对待信息也应如此。
 
@@ -94,13 +94,13 @@ fact checking 有什么用呢？只有客观有效的信息才能帮你建立有
 
 但是我们基于对“铅笔”这一常识的理解——铅笔是一种笔直的棍状物体——可以很快得出结论：很大的可能性，应该选择图 1。
 
-注意，图1仅仅表示基于现有的信息下，这个回答有更大的概率是正确的，并不意味着图1一定的正确的。比如说，如果有一个新的信息：你有一个特别喜欢作弄人的同事，他在这件事上作弄你也有一个概率，那么基于这个新的信息，图1正确的概率也会发生变化，这是贝叶斯定理[^4]。
+注意，图1仅仅表示基于现有的信息下，这个回答有更大的概率是正确的，并不意味着图1一定的正确的。比如说，如果有一个新的信息：你有一个特别喜欢作弄人的同事，他在这件事上作弄你也有一个概率，那么基于这个新的信息，图1正确的概率也会发生变化，这是[贝叶斯定理]( https://en.wikipedia.org/wiki/Bayes%27_theorem, "贝叶斯定理")。
 
 既然概率不能保证必胜，那为什么我们要理解概率？原因很简单：在足够长的时间里，你会基于这些信息作出很多很多次判断，如果你的判断正确率总是 > 50%，那么这些信息给你带来的收益才会是一个正值。
 
 ## 5 严谨的思考
 
-在 80 年代停止中小学逻辑学课程后，我们中很多人都缺少建立和评估逻辑的意识，也失去培养这种思维方式的机会，那就是“Critical thinking[^5]”
+在 80 年代停止中小学逻辑学课程后，我们中很多人都缺少建立和评估逻辑的意识，也失去培养这种思维方式的机会，那就是“[Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking "Critical Thinking")”
 
 在汉语语境中，Critical thinking 被翻译成“批判性思维”，会让人联想到负面的“批评”（criticize），其实与它的原定义有所差距。更好的翻译应该是“逻辑清晰严密的思考”。
 
@@ -120,9 +120,4 @@ fact checking 有什么用呢？只有客观有效的信息才能帮你建立有
 
 ![](./a-guide-to-surviving-fake-news/respect.png)
 
-[^1]: Propaganda, https://en.wikipedia.org/wiki/Propaganda
-[^2]: Fact checking, https://en.wikipedia.org/wiki/Fact-checking#Informal_fact-checking
-[^3]: 《[资治通鉴]·唐太宗贞观二年》：问 魏徵 曰：人主何为而明，何为而暗？对曰：兼听则明，偏信则暗。
-[^4]: 贝叶斯定理， https://en.wikipedia.org/wiki/Bayes%27_theorem
-[^5]: Critical Thinking, https://en.wikipedia.org/wiki/Critical_thinking
 
