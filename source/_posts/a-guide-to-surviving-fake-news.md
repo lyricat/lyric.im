@@ -1,7 +1,7 @@
 ---
 title: 逼近真相：在虚假和半真半假中的生存指南
 date: 2020-01-22 23:38:30
-tags: ["Fact checking"， "Fake news"]
+tags: ["Fact checking", "Fake news"]
 ---
 
 > ~~“假使这些完全无中生有的东西，你再帮他们说一遍，你等于，你也有责任”~~
