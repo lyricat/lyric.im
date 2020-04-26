@@ -28,7 +28,9 @@ tags: ["隐私保护"]
 
 另一方面，在现代技术的加持之下，强调隐私保护会让你“难以享受现代技术文明”。
 
-比如现在几乎所有互联网产品，都必须同意它的隐私条款，或者必须使用手机号注册，才能享受服务的内容。当然当然当然，你可以选择不使用他们的服务，这也意味着与大多数现代科技服务隔离：比如不能和家人用微信聊天，不能使用电子支付，不能在 Netflex 上看视频，不能在 AirBnB 和携程预订酒店，等等。
+比如现在几乎所有互联网产品，都必须同意它的隐私条款，或者必须使用手机号注册，才能享受服务的内容。
+
+当然当然当然，你可以选择不使用他们的服务，这也意味着与大多数现代科技服务隔离：比如不能和家人用微信聊天，不能使用电子支付，不能在 Netflex 上看视频，不能在 AirBnB 和携程预订酒店，等等。
 
 但是说回来，这是一个非常错误的假设，即“只有做了见不得人的事，才害怕自己的隐私泄漏，或者受到监控”，或者说“坏人才担心隐私”。
 
@@ -37,7 +39,7 @@ tags: ["隐私保护"]
 1. 谈隐私保护的是坏人。
 2. 我是个本分的好市民，坏结果不会降临到我身上。
 
-所以，不管是扎克伯格还是斯密特或者什么别的大人物跟你说了这样的话：
+所以，不管是扎克伯格还是施密特或者什么别的大人物跟你说了这样的话：
 
 > People have really gotten comfortable not only sharing more information and different kinds, but more openly and with more people…That social norm is just something that has evolved over time
 >
@@ -49,7 +51,9 @@ tags: ["隐私保护"]
 >
 > ——CEO of Google, [Eric Schmidt](https://www.youtube.com/watch?v=A6e7wfDHzew "Google CEO Eric Schmidt on privacy")
 
-千万别信这些屁话，请看看他们是怎么做的：扎克伯格自己一次买下了自己家旁边的[四栋房子](https://www.businessinsider.com/mark-zuckerberg-buys-4-homes-for-privacy-2013-10 "Mark Zuckerberg Just Spent More Than $30 Million Buying 4 Neighboring Houses For Privacy")来保护自己的隐私；而 [Google 对 CNET](https://www.sfgate.com/business/article/Google-says-Cnet-went-too-far-in-googling-2617567.php "Google says Cnet went too far in googling") 说请不要让你们的记者人肉 Google 我家的 CEO 了。
+千万别信这些屁话，请看看他们是怎么做的：
+
+扎克伯格自己一次买下了自己家旁边的[四栋房子](https://www.businessinsider.com/mark-zuckerberg-buys-4-homes-for-privacy-2013-10 "Mark Zuckerberg Just Spent More Than $30 Million Buying 4 Neighboring Houses For Privacy")来保护自己的隐私；而 [Google 对 CNET](https://www.sfgate.com/business/article/Google-says-Cnet-went-too-far-in-googling-2617567.php "Google says Cnet went too far in googling") 说请不要让你们的记者人肉 Google 我家的 CEO 了。
 
 要知道，在现代技术的支持下，如果你不动，就不会发现身上的枷锁。
 
@@ -67,11 +71,13 @@ tags: ["隐私保护"]
 
 更高端的手法则可以用于管理金字塔结构的人类组织，比如参考 “1984” 中对电幕的解释：
 
-> There was, of course, no way of knowing whether you were being watched at any given moment … At any rate, they could plug in your wire whenever they wanted to. You had to live, did live, from habit that became instinct, in the assumption that every sound you made was overheard and except in darkness every movement scrutinized."
+> There was, of course, no way of knowing whether you were being watched at any given moment … At any rate, they could plug in your wire whenever they wanted to. You had to live, did live, from habit that became instinct, in the assumption that every sound you made was overheard and except in darkness every movement scrutinized.
 
 这一手法的关键并不在于隐私向组织的权力中心公开，而在于这种随时可以查阅隐私的状态。这一状态下，无论隐私是否被查阅，都可以让组织内的人变得更加“顺从”。
 
-其实这种做法古来有之。比如所有的宗教都有类似的教义，例如闪族一神教都会描述那个全知全能的存在，教徒的一切所作所为所想都在这一至高存在面前一览无遗，教徒会在教义的范畴之内变得“顺从”。所以，关键并不在于持续不断的监控，而是在于隐私单向公开后形成的社会规范。
+其实这种做法古来有之。比如所有的宗教都有类似的教义，例如闪族一神教都会描述那个全知全能的存在，教徒的一切所作所为所想都在这一至高存在面前一览无遗，教徒会在教义的范畴之内变得“顺从”。
+
+所以，关键不在于持续不断的监控，而是在于隐私单向公开后形成的社会规范。
 
 面向未来的手法来自 Facebook 和 Cambridge Analytica 的[丑闻](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)。虽然 Facebook 暂时失利了，但是我相信这种手法会在未来取得很大的成绩。
 
@@ -87,11 +93,11 @@ tags: ["隐私保护"]
 
 例如，我们总说科学是阶梯，但是我们历史上的所有创新，都来自对规则的破坏。中世纪末的欧洲大艺术家和大科学家们能开创文艺复兴，就必须忽略上帝的耳语和注视。
 
-所以，保护隐私，也就是**能够**远离他人意见的目光、接受异见、容纳多样性，是创新和探索的意义来源。
+所以，保护隐私，也就是**能够**远离他人意见的目光、接受异见、容纳多样性，是创新和探索的来源。
 
 ## 如何保护我们的隐私
 
-保护隐私跟保护个人数字安全是一样的。但是考虑到中国隐私保护从立法到执行，从企业到民间意识的全面缺失，我们需要有意识地做很多事情才能做到。
+保护隐私跟保护个人数字安全是一样的。但是考虑到中国隐私保护从立法到执行，从企业到民间意识的全面缺失，也就是说，中国的环境当隐私是个屁，我们需要有意识地做很多事情才能做到这一点。
 
 ### 使用密码管理器
 
@@ -107,7 +113,7 @@ tags: ["隐私保护"]
 
 ### 使用对隐私更友好的产品
 
-比如在聊天工具上，选择“端对端加密”的聊天工具。比如我现在主要使用基于 Singal 协议的 Mixin Messenger 作为聊天工具，而不是微信和 Telegram。
+比如在聊天工具上，选择“端对端加密”的聊天工具。比如我现在偏向于使用基于 Signal 协议的 Mixin Messenger 作为聊天工具，而不是微信和 Telegram。
 
 再比如使用 Firefox 或者其它 Chromium 开源衍生品，而不是商业公司出品的浏览器，尤其是中国公司出品的任何浏览器。并且记得开启 “Don't Track” 和浏览器自带的隐私保护功能，并善用 Private 模式。
 
@@ -125,7 +131,7 @@ tags: ["隐私保护"]
 
 那么，隐私保护最终是无解的吗？
 
-我认为是有机会解决这个问题的，解决问题的关键在于区块链和密码学技术。接下来我会基于几个假设，然后用简单的叙述来解答这个问题。
+我认为是有机会解决这个问题的，解决问题的关键在于区块链和密码学技术。接下来我用简单的叙述来解答这个问题。
 
 首先，我们都知道，互联网上的任何数据，在技术上都是可以复制的。比如一首盗版 Mp3 歌曲，可以随意在互联网上传播。
 
