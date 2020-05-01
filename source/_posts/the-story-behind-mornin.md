@@ -25,7 +25,7 @@ Video conferencing is a kind of illusion in which you can see people's faces but
 
 On the other hand, to have a good quality video meeting, we need to set up complicated software, to have a reliable fast network and to watch ourselves on the screen, which is also an unnecessary waste.
 
-![](/the-story-behind-mornin/index.jpg)
+![](/the-story-behind-mornin/chat.jpg)
 
 
 ## We think everyone has the right to privacy.
