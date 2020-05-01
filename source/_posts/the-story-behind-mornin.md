@@ -4,6 +4,8 @@ date: 2020-05-01 18:17:23
 tags: ["audio conferencing", "anonymous"]
 ---
 
+![](/the-story-behind-mornin/index.jpg)
+
 Browsing the gallery of conferencing services, a lot of complicated software and Apps in your search result, is a terrible experience and that's before you've even installed them and registered account on them.
 
 The creator of Mixin Inc, my friend, Cedric Fung, has been working from home with his crew for several weeks.
@@ -14,6 +16,7 @@ One day I needed to talk to Cedric in voice so I asked him to use Zoom.
 
 In the end, Cedric and I can't find a straight simple service to just starting the audio conferencing reliably. So we made Mornin.
 
+
 ## We don't really need a video.
 
 Some people feel that energy is drained by video conferencing, both mentally and electrically (the devices and bandwidth suffer). We have researched this fact for a while and found that the problem with video-conferencing is that the body isn't there.
@@ -21,6 +24,9 @@ Some people feel that energy is drained by video conferencing, both mentally and
 Video conferencing is a kind of illusion in which you can see people's faces but you can not really interact with them as normal. This creates a cognitive problem, and our brain cannot handle this situation well.
 
 On the other hand, to have a good quality video meeting, we need to set up complicated software, to have a reliable fast network and to watch ourselves on the screen, which is also an unnecessary waste.
+
+![](/the-story-behind-mornin/index.jpg)
+
 
 ## We think everyone has the right to privacy.
 
