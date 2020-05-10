@@ -14,13 +14,15 @@ tags: ["audio conferencing", "anonymous"]
 
 “这太扯了”，Cedric 说，“就想平时一样随意地聊聊，为什么非要视频，非要安装一个 Zoom，非要注册，而且它们还会卖了我”。
 
-我同意他的看法，但是我们没找到一个能随意交流的语音产品，所以我们花了几天做了 Mornin。
+我同意他的看法，但是我们没找到一个能随意交流的语音产品，所以我们花了几天做了 Mornin（下图是我们在聊天）：
+
+![](/the-story-behind-mornin-zh/chat.jpg)
 
 ## 视频并非刚需
 
 总有人觉得视频会议很重要。Mornin 上线之初，就有很多人来问我们能不能支持视频。我们的回答是“不会”。
 
-![](/the-story-behind-mornin-zh/wfh-meme.png)
+![](/the-story-behind-mornin-zh/wfh-meme.jpg)
 
 因为视频不是真正的需求。
 
@@ -28,7 +30,7 @@ tags: ["audio conferencing", "anonymous"]
 
 对方的脸仿佛近在咫尺，却无法与之正常互动时，我们的大脑就产生了一种认知上的矛盾。比如说你在开会，然后发现对方在胡扯时，你没法真正地掀桌子揍他，你就会很难受，觉得很累。所以说这种矛盾会消耗我们的体力和精力。
 
-![](/the-story-behind-mornin-zh/uncanny_valley_zh.png)
+![](/the-story-behind-mornin-zh/uncanny_valley_zh.jpg)
 
 所以在拥有真正出色的 VR 技术之前，视频是一个令人不舒服的方案，而纯音频聊天中我们人人都可以更放松一些。
 
@@ -45,6 +47,8 @@ tags: ["audio conferencing", "anonymous"]
 所以 Cedric 和我选择了自己动手。
 
 Mornin 不需要注册，自然收集不到任何个人信息；我们不会给 Mornin 安装 Google Analytics，也不会保留日志，自然也不知道用户的行为。
+
+![](/the-story-behind-mornin-zh/mornin-no-tracker.jpg)
 
 这也这意味着 Mornin 不会有什么让你“注册以获得更好的服务”之类的东西。
 
