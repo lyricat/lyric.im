@@ -1,6 +1,6 @@
 ---
-title: "The story behind Mornin: Simplify, Anonymous and Ease-of-Use"
-date: 2020-05-01 18:17:23
+title: "Mornin: 免注册、免下载、匿名的，即时语音聊天服务"
+date: 2020-05-09 13:48:23
 tags: ["audio conferencing", "anonymous"]
 ---
 
