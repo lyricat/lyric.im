@@ -48,8 +48,6 @@ tags: ["audio conferencing", "anonymous"]
 
 Mornin 不需要注册，自然收集不到任何个人信息；我们不会给 Mornin 安装 Google Analytics，也不会保留日志，自然也不知道用户的行为。
 
-![](/the-story-behind-mornin-zh/mornin-no-tracker.jpg)
-
 这也这意味着 Mornin 不会有什么让你“注册以获得更好的服务”之类的东西。
 
 前几天有人到 https://mornin.fm/lyric 问我，为什么 Mornin 作为匿名社交不能给新用户推荐几个有人的聊天室，让大家聊起来。
