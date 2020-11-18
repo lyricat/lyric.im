@@ -10,8 +10,6 @@ date: 2020-11-17
 2. 一个致力于捐赠开源项目的开源项目：[Claps.dev]("https://claps.dev")。
 3. 一种可以通过代码分析量化程序员贡献的算法。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/B21yuDVicPmGcQnRwHywgk3RwgFChku1rdueJ03iaug9INYVcbfc9XyXHXLfeyM38ssvfr4E1etKCd3GnVO6Rz0Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ---
 
 要知道对我这种人来说，如果一个项目属于用爱发电的类型，也就是不用关心商业化和营收，让投资人脑壳疼，我就来劲。
@@ -29,7 +27,7 @@ date: 2020-11-17
 
 因为当时 Medium 上有个功能叫 claps，相当于微信公众号的点赞，我感觉寓意挺好，就跑去注册了个域名 claps.dev，大概意思就是为开发者鼓掌👏，至于怎么鼓掌，那就是用转账很快的公链来给开源项目打钱，然后用能评估绩效的算法给程序员分钱，就这么简单。
 
-![](/claps-dev-summer-2020/photo.jpg "Claps.dev")
+![](/claps-dev-summer-2020/banner.jpg "Claps.dev")
 
 接着机缘巧合，另一朋友给我推荐了中科院软件所和华为联办的一个比赛，叫“开源软件供应链点亮计划 2020”的比赛，基本上是 Google Summer of Code 在国内的翻版，所以我接下来简称它为 Summer 2020。
 
@@ -47,7 +45,7 @@ Summer 2020 的赛制跟 Google Summer of Code 很类似，我就不多赘述了
 
 尤其是其中的三位，讲真出于私心我啊很希望他们毕业能来我的团队工作（对，我依然在招人），但是理性的建议依然是推荐没有特殊追求的年轻人去大厂或者找个好导师读个 master。
 
-![](/claps-dev-summer-2020/faded.jpg "参赛学生 RandyLambert，照片已得到授权")
+![](/claps-dev-summer-2020/photo.jpg "参赛学生 RandyLambert，照片已得到授权")
 
 *参赛学生 RandyLambert，照片已得到授权
 
