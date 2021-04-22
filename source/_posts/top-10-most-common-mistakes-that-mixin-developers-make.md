@@ -1,6 +1,6 @@
 ---
 title: 10 Most Common Mistakes That Mixin Developers Make
-date: 2021-04-17 15:09:19
+date: 2021-04-22 11:51:19
 tags: ["Mixin", "Development"]
 ---
 
