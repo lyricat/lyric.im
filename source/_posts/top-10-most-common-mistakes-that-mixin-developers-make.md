@@ -143,7 +143,7 @@ If there are two bots in the same group and both of them have the same issue, th
 
 To prevent others adding the bot to a group, please run the following code：
 
-```golang
+```go
 func resetBotPreferences() error {
 	data := `{"receive_message_source":"EVERYBODY", "accept_conversation_source":"CONTACTS"}`
 	return request("POST", "/me/preferences", json.RawMessage(data), nil)
