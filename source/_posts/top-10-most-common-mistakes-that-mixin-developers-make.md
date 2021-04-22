@@ -141,6 +141,15 @@ If someone adds your bot in a group, and your bot considers it as a user convers
 
 If there are two bots in the same group and both of them have the same issue, the situation will be very chaotic and messy: the bot will keep talking to each other unless the group admin kick them off.
 
+To prevent others adding the bot to a group, please run the following code：
+
+```golang
+func resetBotPreferences() error {
+	data := `{"receive_message_source":"EVERYBODY", "accept_conversation_source":"CONTACTS"}`
+	return request("POST", "/me/preferences", json.RawMessage(data), nil)
+}
+```
+
 ## Conclusion
 
 Mixin is a powerful combination of distributed ledger and privacy communication service, which evolves quickly since its birth. There are so many possibilities on it.
