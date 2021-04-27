@@ -20,9 +20,9 @@ To use 4swap is simple. At first you need to install Fennec on your Firefox or C
 
 You can fetch Fennec at [Chrome Store](https://chrome.google.com/webstore/detail/fennec/eincngenkhohbbfpkohipekcmnkfamjp) and [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/fox_fennec/), you can also get the source code at [Github](https://github.com/fox-one/fennec).
 
-The first time launching Fennec you need to import an existed keystore or create a new one. Please follow the instructions at Fennec's guide page to create an account and **backup its keystore file in safety (very important)**
+The first time launching Fennec you need to import an existed keystore or create a new one. Please follow the instructions at Fennec's guide page to create an account and **backup its keystore file in safety, or you will lose all your asset in Fennec permanently (very important)**
 
-You will be asked for a password to protect your keystore in Fennec, choose a strong password please.
+You will be asked for a password to protect your keystore in Fennec, choose a strong password please. **Notice: You can't reset the password, please don't forget it**.
 
 ### Transfer coins to Fennec
 
@@ -57,7 +57,7 @@ An interesting thing is that there are a lot of bots in Mixin Messenger, include
 
 To buy MOB at Mixin Messenger is easy, please follow the steps to get started:
 
-- Step 1: Download Mixin Messenger from the [official website](https://mixin.on) and sign up. You will be asked to setup a 6-digits PIN to protect your wallet. **Please remember it or you will lose all your coins permanently**.
+- Step 1: Download Mixin Messenger from the [official website](https://mixin.one) and sign up. You will be asked to setup a 6-digits PIN to protect your wallet. **Please remember it or you will lose all your coins permanently**.
 - Step 2.1: If you have BTC or other crypto in your wallets or exchanges, you can simply withdraw some of them from your wallets or exchanges, and transfer to Mixin Messenger.
 - Step 2.2: if you don't have any cryptocurrency, you try the Wrye Payment in another bot called "Elite Wallet" (ID: 7000101425). Search it and visit the bot page, you will find "Wyre Cash In" in the "Tools" tab, which provides a way to buy USDT or USDC via credit cards and debit cards.
 - Step 3: Search 7000103537 in Mixin Messenger and add 4swap bot as contact.
@@ -100,7 +100,7 @@ If you are familiar with the crypto exchanges, you find that buying MOB at FTX i
 
 ## Conclusion
 
-MobileCoin is [backed by](https://twitter.com/wheatpond/status/1386486430009024516): 1. biggest individual BTC whale in China; 2. first investor in [@SpaceX](https://twitter.com/SpaceX); VC founded by former CEO of amex; and being integrated into the fastest growing messenger app ever, but still hasn’t been listed many big exchanges.
+MobileCoin is [backed by](https://twitter.com/wheatpond/status/1386486430009024516): 1. biggest individual BTC whale in China; 2. first investor in [@SpaceX](https://twitter.com/SpaceX); 3. VC founded by former CEO of amex; and being integrated into the fastest growing messenger app ever, but still hasn’t been listed many big exchanges.
 
 So I looked at the best places to buy MOB and settled on 3 ways with full instructions. Once you have chosen one of them, see your new MOB in your wallet or account.
 
