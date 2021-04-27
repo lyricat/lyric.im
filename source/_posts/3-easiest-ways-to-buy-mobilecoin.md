@@ -39,7 +39,7 @@ It may cost 10~30 minutes to receive the Bitcoin, according to traffic condition
 
 Actually, you can buy any supported assets at 4swap, but this time, we will focus on MOB.
 
-- Visit [the swap entry](https://app.4swap.org/#/swap?input=c6d0c728-2624-429b-8e0d-d9d19b6592fa&output=eea900a8-b327-488c-8d8d-1428702fe240), Click "Connect Wallet" button and click "Connect Fennec" button on the popup sheet.
+- Visit [the swap entry](https://app.4swap.org/#/swap?input=c6d0c728-2624-429b-8e0d-d9d19b6592fa&output=eea900a8-b327-488c-8d8d-1428702fe240) (https://x.firesbox.com/9L1I2), Click "Connect Wallet" button and click "Connect Fennec" button on the popup sheet.
 - Fennec will popup a dialog to ask you to confirm the authorization, please click "Allow".
 - Now 4swap has connected with Fennec.
 - At the swap page, select the assets you want to swap to MOB, and fill the amount. 4swap will calculate how much you will get from the swapping and show you the predication result.
