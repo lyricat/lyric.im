@@ -4,7 +4,8 @@ tags: ["Blockchain", "Cryptocurrency", "Mobilecoin"]
 date: 2021-04-27 10:41:32
 ---
 
-> [Chinese Version](./3-easiest-ways-to-buy-mobilecoin-zh).
+> [!NOTE]
+> I also wrote a [Chinese version](./3-easiest-ways-to-buy-mobilecoin-zh).
 
 [MobileCoin](https://www.mobilecoin.com/) is a cryptocurrency designed for digital cash on mobile devices. It’s easy to use with near instantaneous transactions.
 
