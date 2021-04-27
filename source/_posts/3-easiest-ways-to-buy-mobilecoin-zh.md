@@ -4,6 +4,9 @@ tags: ["区块链", "加密货币", "Mobilecoin"]
 date: 2021-04-27 14:41:32
 ---
 
+> [English version](./3-easiest-ways-to-buy-mobilecoin).
+
+
 [MobileCoin](https://www.mobilecoin.com/) 是一种加密货币，旨在成为移动设备上的加密现金。他们的目标是做到即时交易，并且要简单容用。
 
 根据 MobileCoin 团队在其网站上说的，他们在密码学，移动和电信领域拥有丰富的专业知识，而且著名的隐私消息 App Signal 的创始人还是他们的顾问。而且，他们非常关注保护用户隐私。
