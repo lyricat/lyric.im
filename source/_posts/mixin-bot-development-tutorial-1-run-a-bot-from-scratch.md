@@ -66,11 +66,11 @@ I will start the whole tutorial base on a really simple example from [mixin-sdk-
 Open terminal and create a directory at your workspace:
 
 ```bash
-$ mkdir all-to-btc
-$ cd all-to-btc
+$ mkdir mixin-tutorial
+$ cd mixin-tutorial
 ```
 
-and initialize a go mod:
+and initialize a Go module:
 
 ```bash
 $ go mod init YOUR_GITHUB_REPO_NAME
