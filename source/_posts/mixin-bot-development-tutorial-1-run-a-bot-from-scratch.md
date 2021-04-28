@@ -1,7 +1,7 @@
 ---
-title: Mixin bot development tutorial 1 - Run a bot from scratch
+title: Mixin Bot Development Tutorial 1 - Run a Bot from Scratch
 date: 2021-04-28 14:21:18
-tags: ["tutorial", "mixin development"]
+tags: ["Tutorial", "Mixin Development"]
 ---
 
 Recently, I published an article "[A Quick Glance into Mixin Development](https://gitpress.io/@lyric/a-quick-glance-into-mixin-development)" which summarizes Mixin development.
