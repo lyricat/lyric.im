@@ -43,7 +43,7 @@ Fennec 是 Mixin Network（跨链公共链）上的钱包。 因此 Fennec 可�
 
 实际上，你可以 4swap 购买任何支持的资产；但是这次，我们将重点关注 MOB。
 
-- 访问 [Swap 入口](https://app.4swap.org/#/swap?input=c6d0c728-2624-429b-8e0d-d9d19b6592fa&output=eea900a8-b327-488c-8d8d-1428702fe240) (https://x.firesbox.com/9L1I2)，单击“连接钱包”按钮，然后在弹出页面上单击 “连接 Fennec” 按钮。
+- 访问 [Swap 入口](https://app.4swap.org/#/swap?input=c6d0c728-2624-429b-8e0d-d9d19b6592fa&output=eea900a8-b327-488c-8d8d-1428702fe240) 或者 https://x.firesbox.com/9L1I2 ，单击“连接钱包”按钮，然后在弹出页面上单击 “连接 Fennec” 按钮。
 - Fennec 将弹出一个对话框，要求你确认授权，请单击“允许”。
 - 这时候，4swap 已完成与 Fennec 的连接。
 - 在“Swap”页面上，选择要换到 MOB 的资产，然后填写金额， 4swap 将计算执行这次交易你能获得多少 MOB，并显示预测结果。
