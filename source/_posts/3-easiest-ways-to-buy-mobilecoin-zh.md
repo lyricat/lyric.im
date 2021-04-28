@@ -1,5 +1,5 @@
 ---
-title: 购买 MobileCoin 最简单的三种方式
+title: 购买 MobileCoin (MOB) 最简单的三种方式
 tags: ["区块链", "加密货币", "Mobilecoin"]
 date: 2021-04-27 14:41:32
 ---
