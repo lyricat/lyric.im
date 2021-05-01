@@ -439,7 +439,7 @@ The only important thing of the function is that never use a random UUID in the 
 
 > If we assign `traceID`  with a random UUID at the beginning, the bot will continuedly send me BTC because it fail to update the schedule in the database. So the loop won't stop and will  exhaust all BTC in the bot's account. It could lead to grave consequences in a real project.
 
-Be careful about it!
+Be careful of it!
 
 ## Summary
 
