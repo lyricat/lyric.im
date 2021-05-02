@@ -159,7 +159,7 @@ There are series of Categories in Mixin Messenger. In the code above, two kinds 
 
 The former indicates the message is a "transfer message", and the latter means that it's a "plain text message".
 
-For the "transfer message", there is a function called `handleTransfer` to handle them. Because we are not ready to handle money yet, let's talk about it later.
+For the "transfer message", there is a function called `handleTransfer` to handle them. Because we are not ready to handle money yet, let's talk about it in the next post.
 
 For the "text message", here is the implementation of the `handleTextMessage`:
 
@@ -337,114 +337,10 @@ func respond(ctx context.Context, msg *mixin.MessageView, category string, data 
 }
 ```
 
-
-
-## Handle Transfers
-
-In the messaging loop, the `h` function uses two conditions to identify the "transfer messages" the bot received.
-
-The first condition is that the category of messages. The second is that the comparison of message.UserID and the bot's clientID (the Client ID is the userID of the bot, you can see it in the keystore file).
-
-```go
-if msg.Category == mixin.MessageCategorySystemAccountSnapshot {
-  // if the message is a transfer message
-  // and it is sent by other users, then handle it
-  if msg.UserID != client.ClientID {
-    return handleTransfer(ctx, msg)
-  }
-  // or just drop it
-  return nil
-} else if ...
-```
-
-The reason for the second condition is that in Mixin Messenger, all transfers related this bot will be received in the messaging loop, no matter it comes from other person or sent by the bot itself.
-
-So we need to compare the message's userID and ignore the transfer sent by the bot.
-
-### Pretending to swap assets
-
-Implementing of `handleTransfer` function is a transfer version of the "echo". The logic of the function is very similar to the logic we used in the previous post: The bot will simply send every penny back when it receives a transfer.
-
-It's because we are not ready to connect to any exchange and can not do real trading yet.
-
-However, I still wrote some code, pretending that the bot was swapping assets for the users. You can see that in the code:
-
-```go
-func handleTransfer(ctx context.Context, msg *mixin.MessageView) error {
-	data, err := base64.StdEncoding.DecodeString(msg.Data)
-	if err != nil {
-		return err
-	}
-
-	// Decode the transfer view from message's content
-	var view mixin.TransferView
-	err = json.Unmarshal(data, &view)
-	if err != nil {
-		return err
-	}
-
-	session := getSession(msg.UserID)
-	if session != nil && session.State == UserSessionStateSpecifiedSymbol {
-		// has already specified an asset symbol in session
-		// send a message and refund
-		incomingAsset, err := client.ReadAsset(ctx, view.AssetID)
-		if err != nil {
-			return err
-		}
-		todo := fmt.Sprintf(
-			"%s -> %s, swapping at 4swap...\nOops, I don't connect to 4swap yet.\nYour %s will be refunded.",
-			incomingAsset.Symbol, session.Symbol, incomingAsset.Symbol,
-		)
-		respond(ctx, msg, mixin.MessageCategoryPlainText, []byte(todo), 1)
-		// @TODO
-		// swap the asset at 4swap.
-		return transferBack(ctx, msg, &view, *pin)
-	}
-	// refund directly
-	return transferBack(ctx, msg, &view, *pin)
-}
-```
-
-As you can see, even though the bot already recognises the purpose of users, it transfers the money back in the end.
-
-I leave a `@TODO` comment here to reminder me implement the trading feature in the future posts.
-
-You may interest at the `transferBack` function, it looks like that:
-
-```go
-func transferBack(ctx context.Context, msg *mixin.MessageView, view *mixin.TransferView, pin string) error {
-	amount, err := decimal.NewFromString(view.Amount)
-	if err != nil {
-		return err
-	}
-
-	id, _ := uuid.FromString(msg.MessageID)
-
-	input := &mixin.TransferInput{
-		AssetID:    view.AssetID,
-		OpponentID: msg.UserID,
-		Amount:     amount,
-		TraceID:    uuid.NewV5(id, "refund").String(),
-		Memo:       "refund",
-	}
-
-	if _, err := client.Transfer(ctx, input, pin); err != nil {
-		return err
-	}
-	return nil
-}
-```
-
-The only important thing of the function is that never use a random UUID in the `TraceID` field of `mixin.TransferInput`. For the reason, you can read [this article](1-using-arbitrary-trace-id-in-transfers) I wrote before:
-
-> If we assign `traceID`  with a random UUID at the beginning, the bot will continuedly send me BTC because it fail to update the schedule in the database. So the loop won't stop and will  exhaust all BTC in the bot's account. It could lead to grave consequences in a real project.
-
-Be careful of it!
-
 ## Summary
 
 In this article, I introduced the basic user-interact method of Mixin bot: chatting.
 
-The next step, I'd explain more details about how transfers done in Mixin Network, and let this bot correctly respond to crypto asset transfers, rather than receive and send back.
+The next step, I'd explain more details about how transfers done in Mixin Network, and let this bot correctly handle the crypto asset transfers, and do the real trading at [4swap](https://4swap.org).
 
 If you want to contribute to this tutorial and make it better, your help is very welcome. Please fork [this source code](https://github.com/lyricat/mixin-tutorial/) and discuss with me at [Github discussions](https://github.com/lyricat/mixin-tutorial/discussions).
