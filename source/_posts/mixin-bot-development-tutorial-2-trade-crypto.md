@@ -8,9 +8,9 @@ In the [previous post](https://gitpress.io/@lyric/mixin-bot-development-tutorial
 
 To achieve that, the bot must manage user sessions, to keep tracking the state of conversation with users.
 
-The work is not complete yet, the function `handleTransfer` is still not implemented, and we still can not trade crypto in the bot.
+However, the work is not complete yet, the function `handleTransfer` is still not implemented, and we still can not trade crypto in the bot. So let's do the rest in this post.
 
-However, before we continue, we need to make some preparations:
+Before we continue, we need to make some preparations:
 
 ## Prepare for Transfers
 
