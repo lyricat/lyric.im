@@ -21,7 +21,7 @@ The keystore file you generated from the "Developer dashboard" is the "key" to a
 In the keystore file, there is a field named `PIN`, a 6-digits number. It's a basically the same functionality as the PIN for your Mixin Messenger account. PIN is a part of [D3M-PIN](https://vec.io/posts/mixin-messenger-d3m-pin), which is a protection mechanism in Mixin Wallet APIs. There are 2 important advises for it:
 
 1. Don't store PIN in plain-text.
-2. Sending transfer with incorrect PIN 4 times in one day will cause the account be locked for 24 hours.
+2. Sending transfer with incorrect PIN 5 times in one day will cause the account be locked for 24 hours.
 
 In the bot, I remove the PIN from my store file, and pass it as a command-line parameter.
 
