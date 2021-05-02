@@ -39,8 +39,6 @@ And then, we need to add this parameter to execute the bot:
 $ ./mixin-tutorial -config ./YOUR_KEYSTORE_FILE -pin YOUR_PIN
 ```
 
-
-
 ## Receive Crypto
 
 In the messaging loop, the `h` function uses two conditions to identify the "transfer messages" the bot received.
@@ -242,8 +240,7 @@ func mtgSwap(receiverID, payAssetID, fillAssetID, amount string) error {
 
 The first step of swapping is switching the endpoint of 4swap. There are [two endpoints](https://github.com/fox-one/4swap-sdk-go/tree/master/docs) in 4swap, we are using the "MTG" version, which is better than another in liquidity.
 
-> !NOTE
->
+> [!NOTE]
 > **MTG** is a group of node which arrive a consensus on the data or actions. For example, there are 5 bots in 4swap which confirm each trade and manage all assets in 4swap together. It's a way to provide decentralized services among several bots which controlled by different participants. For more information about MTG, please read [this article](https://developers.mixin.one/document/mainnet/mtg).
 
 The second step is reading the MTG receivers and the threshold from 4swap's API. The information will not change frequently, you may want to save it to reduce the number of requests.
@@ -261,9 +258,9 @@ The last step is invoking the `client.Transaction` to send a raw transaction to 
 
 When 4swap finishes processing your trade, you will receive messages from the bot like this:
 
-![](/mixin-bot-development-tutorial-2-trade-crypto/screenshot.1.png)
+![](/mixin-bot-development-tutorial-3-trade-crypto/screenshot.1.png)
 
-![](/mixin-bot-development-tutorial-2-trade-crypto/screenshot.2.png)
+![](/mixin-bot-development-tutorial-3-trade-crypto/screenshot.2.png)
 
 ## Summary
 
