@@ -40,7 +40,7 @@ So the result of summarization is that:
 3. the bot receive the `x` `B` and swap them all to `A`;
 4. the bot transfer `A` to the user.
 
-![screenshot here](/mixin-bot-development-tutorial-2-interact-with-users/screenshot.jpg)
+![screenshot here](/mixin-bot-development-tutorial-2-interact-with-users/screenshot.1.jpg)
 
 ## Manage User Sessions
 
