@@ -26,7 +26,7 @@ tags: ["Productivity", "生产力", "Tech", "科技", "Knownledge Management", "
 
 最重要的三个软件是：DEVONThink Pro、Things、Anki，如下图所示：
 
-![flow-to-build-knowledge-base](/learn-to-learn-tools/flow-to-build-knowledge-base.png)
+![flow-to-build-knowledge-base](https://gitpress.io/@lyric/learn-to-learn-tools/flow-to-build-knowledge-base.png)
 
 其中，
 
@@ -46,13 +46,13 @@ tags: ["Productivity", "生产力", "Tech", "科技", "Knownledge Management", "
 
 类似的种种，是个没什么意义的纠结心态。知识适合用什么格式就用什么格式好了啊，用 Markdown 写博客，用 PDF 做标记，用 Web Archive 归档网页，剩下的事情交给 DEVONthink 好了。
 
-![image-20180926221439107](/learn-to-learn-tools/devonthink-overview.png)
+![image-20180926221439107](https://gitpress.io/@lyric/learn-to-learn-tools/devonthink-overview.png)
 
 ### **全文检索**
 
 因为 DEVONthink 会索引每一个文件的内容，可以进行全文检索。不过，DEVONthink 不支持中文分词，所以对中文内容是没有效果的。算是一个不足——可以通过多用英文来解决。
 
-![image-20180926221739905](/learn-to-learn-tools/devonthink-search.png)
+![image-20180926221739905](https://gitpress.io/@lyric/learn-to-learn-tools/devonthink-search.png)
 
 说起来这个功能真的很强，我知道一些朋友是用它来管理文献的。
 
@@ -62,7 +62,7 @@ tags: ["Productivity", "生产力", "Tech", "科技", "Knownledge Management", "
 
 是不是很魔法？但是在我们程序员看来，只不过是因为 DEVONthink 在索引文件时会进行 token 计数，然后在多维空间里对文本向量进行了夹角计算而已（其实只是做文本相似度计算）。
 
-![image-20180926221937177](/learn-to-learn-tools/devonthink-magic.png)
+![image-20180926221937177](https://gitpress.io/@lyric/learn-to-learn-tools/devonthink-magic.png)
 
 使用时，经常会先把文档先丢到 INBOX，处理完了后再自动放到对应的分类中去，非常便利。
 
@@ -74,7 +74,7 @@ tags: ["Productivity", "生产力", "Tech", "科技", "Knownledge Management", "
 
 比如说，在 Things 中，你可以使用 **Heading** 来标记一组任务。这个 Heading 对逻辑上的任务组织结构没有影响，但在使用上会得到一种秩序的感觉。
 
-![image-20180926223238128](/learn-to-learn-tools/things-heading.png)
+![image-20180926223238128](https://gitpress.io/@lyric/learn-to-learn-tools/things-heading.png)
 
 ### 没有负担
 
@@ -86,7 +86,7 @@ tags: ["Productivity", "生产力", "Tech", "科技", "Knownledge Management", "
 
 作为一个来自日本的开源软件，Anki 身上到处都是 “日本”和“开源” 的影子——就是**外观不好看又难用**的意思。但是，这个一点儿花里胡哨都没有的 Anki 的记忆曲线管理做得非常好。
 
-![image-20180926224034808](/learn-to-learn-tools/anki-main-view.png)
+![image-20180926224034808](https://gitpress.io/@lyric/learn-to-learn-tools/anki-main-view.png)
 
 作为一个记忆工具，能做好这一件事就已经很好了……
 
@@ -94,13 +94,13 @@ tags: ["Productivity", "生产力", "Tech", "科技", "Knownledge Management", "
 
 Anki 可以使用 HTML 和 CSS 定制记忆卡片，所以可以根据要记忆的东西，定制不一样的样式，而不仅仅是背单词。
 
-![image-20180926223839164](/learn-to-learn-tools/anki-word-view.png)
+![image-20180926223839164](https://gitpress.io/@lyric/learn-to-learn-tools/anki-word-view.png)
 
 ### 学习报告
 
 Anki 有提供很好的统计报表功能，可以很容易看到最近自己有没有努力。
 
-![image-20180926224149221](/learn-to-learn-tools/anki-report-view.png)
+![image-20180926224149221](https://gitpress.io/@lyric/learn-to-learn-tools/anki-report-view.png)
 
 ## Dropbox, Keynote, Skim, Typora...
 
