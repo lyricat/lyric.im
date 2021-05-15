@@ -4,7 +4,7 @@ date: 2018-09-26 23:05:22
 tags: ["Productivity", "生产力", "Tech", "科技", "Knownledge Management", "知识管理"]
 ---
 
-[上一篇文章](//lyric.im/learn-to-learn/)列举了帮助我保持学习几个重要因素。这一篇文章将会介绍如何运用工具，帮助克服在心理和生理上的弱点。
+[上一篇文章](https://gitpress.io/@lyric/learn-to-learn/)列举了帮助我保持学习几个重要因素。这一篇文章将会介绍如何运用工具，帮助克服在心理和生理上的弱点。
 
 <!-- more -->
 
@@ -135,10 +135,10 @@ Anki 有提供很好的统计报表功能，可以很容易看到最近自己有
 
 如果完全按照我的配置来使用这些软件，大概要花费……
 
-- DEVONthink Pro: **$79.95** 
+- DEVONthink Pro: **$79.95**
 - DEVONthink to Go: **$14.99** + $7.99 Pro package
 - Things macOS: **$49.99**
-- Things iPhone: **$9.99** 
+- Things iPhone: **$9.99**
 - Anki: $0
 
 共计 **$162.91**，折合人民币 **¥1,115.90**。
