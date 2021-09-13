@@ -20,7 +20,7 @@ In the end, I bought the [Dell XPS 13](https://wiki.archlinux.org/title/Dell_XPS
 
 I have been using several Linux distributions before, includes Ubuntu, Fedora, Gentoo and Debian. But I have never used ArchLinux.
 
-ArchLinux is a rolling release distribution. Some of my friends have different options for rolling release. They think the rolling release distribution is not stable enough, and it costs a lot of time to maintain the system.
+ArchLinux is a rolling release distribution. Some of my friends have different opinions for rolling release. They think the rolling release distribution is not stable enough, and it costs a lot of time to maintain the system.
 
 They are right, sometimes. However, I prefer to experience the latest version of applications and the packages rather than the stable system.
 
