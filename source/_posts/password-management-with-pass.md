@@ -159,6 +159,8 @@ pass-cp $1 user
 
 ### Command completion
 
+Put the following lines in your `.zshrc` file to enable command completion for my helper scripts:
+
 ```bash
 # set completion for pass util scripts
 compdef pass-login=pass
