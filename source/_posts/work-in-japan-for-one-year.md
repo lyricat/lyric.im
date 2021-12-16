@@ -157,9 +157,3 @@ date: 2021-03-21 17:41:32
 
 国内公摊面积占比挺大，多的 30% 都有，相当于在中国买房子有 10%～30% 的溢价。日本没有这样的计算方式，相当于买 100 平的房子，得房 100 平。
 
-## 写在最后
-
-其实我写这些，主要是因为在日本的公司 [getlinks.jp](https://getlinks.jp) 依然在招人，在东京 或者 Remote，所以要大致介绍一下风土人情。招聘职位请参考[这个 Google Docs 文档](https://docs.google.com/document/d/1e_4GSqGpm1DtqXHFXi5_-svkVwh2-UvffBgsmn8nbn4/edit?usp=sharing)
-
-
-
