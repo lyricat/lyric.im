@@ -1,7 +1,7 @@
 ---
 title: "Murmurs.io: 一个 Web3 微博客"
 description: 
-date: 2022-09-16 13:49:19
+date: 2022-10-02 13:49:19
 ---
 
 严格按照 [ethereum.org](https://ethereum.org/zh/web3/) 的观点，[Murmurs](https://murmurs.io) 不属于 Web3。因为它说：
