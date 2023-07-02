@@ -4,6 +4,8 @@ date: 2008-07-22 15:09:19
 tags: ["Math", "数学", "Coding"]
 ---
 
+[src](https://quail.ink/lyric/p/quick-primality-test "快速素数判定")
+
 在 SICP 1,3 节的时候有提到判断素数的方法。
 朴素的素数判定，地球的同学都知道的，如果数 n 除 1 以外的最小因数是他自己，那么n就是素数。
 
