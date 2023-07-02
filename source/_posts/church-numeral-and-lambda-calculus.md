@@ -4,6 +4,7 @@ date: 2008-07-26 15:09:19
 tags: ["Tech", "科技", "Church", "Lambda", "计算机", "形式语言"]
 ---
 
+[src](https://quail.ink/lyric/p/church-count-and-lambda-calculus "Church 计数和 Lambda 演算")
 
 与图灵机具有相同的运算能力还不够伟大？那么 Lambda 演算可以做到“虚无生两极，两极生四象，四象生八卦”，感谢 Church，我们最终获得世界万物。
 
